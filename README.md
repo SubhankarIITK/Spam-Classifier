@@ -180,7 +180,7 @@ pickle.dump(vectorizer, open('vectorizer.pkl', 'wb'))
 ## 🎨 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](https://github.com/SubhankarIITK/Spam-Classifier/blob/main/Screenshot%202025-06-27%20135411.png?raw=true)
 
 ### Batch Processing
 ![Batch Processing](screenshots/batch_processing.png)
@@ -292,4 +292,4 @@ If you encounter any issues or have questions:
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
-Made with ❤️ by [Subhankar Sutradhar](https://github.com/yourusername)
+Made with ❤️ by [Subhankar Sutradhar](https://github.com/Subhankar)
