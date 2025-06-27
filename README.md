@@ -23,3 +23,11 @@ A modern, interactive **Streamlit web app** that classifies text messages as **S
 
 ## 📂 Folder Structure
 
+spam-classifier/
+├── app.py ← Streamlit web app
+├── model.pkl ← Trained ML model
+├── vectorizer.pkl ← TF-IDF vectorizer
+├── requirements.txt ← Project dependencies
+├── .gitignore ← Git ignore rules
+└── README.md ← This file
+
