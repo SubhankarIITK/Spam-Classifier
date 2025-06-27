@@ -177,17 +177,6 @@ pickle.dump(model, open('model.pkl', 'wb'))
 pickle.dump(vectorizer, open('vectorizer.pkl', 'wb'))
 ```
 
-## 🎨 Screenshots
-
-### Main Interface
-![Main Interface](https://github.com/SubhankarIITK/Spam-Classifier/blob/main/Screenshot%202025-06-27%20135411.png?raw=true)
-
-### Batch Processing
-![Batch Processing](screenshots/batch_processing.png)
-
-### Detailed Analysis
-![Analysis View](screenshots/analysis_view.png)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
