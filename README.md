@@ -281,4 +281,4 @@ If you encounter any issues or have questions:
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
-Made with ❤️ by [Subhankar Sutradhar](https://github.com/Subhankar)
+Made with ❤️ by [Subhankar Sutradhar](https://github.com/SubhankarIITK)
